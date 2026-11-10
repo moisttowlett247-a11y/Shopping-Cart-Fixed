@@ -1,0 +1,6 @@
+{
+  "name": "SparkStore - Dark Walmart & Recipe Engine",
+  "description": "Walmart-styled dark mode shopping with 1-click recipe ingredient carting, Name Brand / Great Value / Organic tier switcher, AI recipe builder & link import, non-food everyday items, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
